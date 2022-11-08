@@ -1,0 +1,32 @@
+.main-block{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background: linear-gradient(180deg, rgb(181, 236, 220) 0%, rgba(181, 236, 220) 24%, rgb(0, 18, 31) 24%);
+
+}
+
+.header{
+    width: 1050px;
+    height: 40px;
+    margin: 25px auto;
+}
+
+.web-logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    width: 39px;
+    height: 39px;
+}
+
+.web-title{
+    margin-left: 15px!important;
+    font-weight: bolder;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    letter-spacing: 1px;
+}
+

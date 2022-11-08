@@ -1,0 +1,18 @@
+.account-info{
+    position: relative;
+    width: 100%;
+    height: 88vh;
+}
+
+.info-inner{
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translateX(-50%);
+    font-size: 40px;
+    color: aliceblue;
+}
+
+.info-inner div{
+    padding: 10px 0;
+}

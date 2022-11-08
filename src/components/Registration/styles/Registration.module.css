@@ -1,0 +1,36 @@
+.registration{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+    
+
+    background-color: #fff;
+    box-shadow: 0 10px 26px #000;
+    border-radius: 5px;
+    padding: 54px 50px 100px;
+}
+
+.header-title{
+    padding-top: 15px;
+}
+
+.qr{
+    width: 264px;
+    height: 264px;
+}
+
+.registration-section{
+    padding-top: 20px;
+}
+
+.number-field{
+    display: flex;
+    align-items: center;
+}
+
+.code-field{
+    padding-right: 10px;
+}
