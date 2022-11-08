@@ -19,7 +19,7 @@ class App extends React.Component{
                </header>
                <BrowserRouter>
                     <div>
-                        <Route path="/" exact component={Registration}/>
+                        <Route path="/auth" exact component={Registration}/>
                         <Route path="/home" component={Home}/>
                     </div>
                </BrowserRouter>
